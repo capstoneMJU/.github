@@ -1,12 +1,62 @@
-## Hi there 👋
+# 🧪 Capstone 4조 - 제로픽 (ZeroPick)
 
-<!--
+> **제로음식, 스마트하게 픽(Pick)하자!**  
+> 사진 한 장으로 원재료와 영양성분까지 분석해주는 AI 기반 제로식품 탐지 프로젝트
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 👨‍👩‍👧‍👦 팀 소개 - 캡스톤디자인 4조
+
+| 이름 | 역할 |
+|------|------|
+| 👤 김규리 | 프론트엔드 개발 |
+| 👤 임용진 | 프론트엔드 개발 |
+| 👤 배석현 | 백엔드 개발 |
+| 👤 백가현 | 백엔드 개발 |
+| 👤 이지수 | 백엔드 개발 |
+
+> 🔁 역할은 프로젝트 상황에 따라 유동적으로 변경될 수 있습니다.
+
+---
+
+## 📌 프로젝트 소개
+
+**제로픽(ZeroPick)**은 제로음식(無당, 無설탕, 無첨가물 등)의  
+**사진을 찍으면 AI가 인식하여 영양성분과 원재료 정보를 분석**해주는 프로젝트입니다.  
+
+이를 통해 사용자에게 **더 나은 식품 선택**을 돕고,  
+**제로식품 시장의 성장**에 기여하고자 합니다.
+
+---
+
+## 🔍 주요 기능
+
+- 📸 음식 사진 촬영 및 업로드
+- 🧠 AI 기반 제로식품 인식 및 성분 분석
+- 🍽️ 영양 성분 정보 시각화
+- 🏷️ 제로 식품 여부 판별 및 추천
+
+---
+
+## 🛠️ 기술 스택
+
+| 분야 | 기술 |
+|------|------|
+| Frontend | React |
+| Backend | Spring Boot, JPA, MySQL |
+| Infra | GitHub Actions, Docker, AWS (예정) |
+
+---
+
+## 🌱 프로젝트 목표
+
+- ✅ 영양성분 및 성분 자동 분석 정확도 90% 이상 달성
+- ✅ 사용자 친화적인 제로음식 탐색 UI 제공
+- ✅ 오픈데이터 기반의 영양정보 DB 구축
+
+---
+
+## 📂 레포지토리 구조
+
+
+
