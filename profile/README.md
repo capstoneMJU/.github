@@ -46,12 +46,26 @@
 ---
 
 ## 🛠️ 기술 스택
+### 🔜 Frontend
 
-| 분야 | 기술 |
-|------|------|
-| Frontend | React |
-| Backend | Spring Boot, JPA, MySQL |
-| Infra | GitHub Actions,  AWS|
+| 카테고리            | 기술 스택                                     |
+|---------------------|-----------------------------------------------|
+| Framework           | React.js, Vite                                |
+| Language            | TypeScript                                     |
+| Styling             | Styled-components                              |
+| Linting & Formatting| ESLint, Prettier, husky (commitLint)          |
+| Package Manager     | Yarn                                           |
+
+---
+### 🔙 Backend
+
+| 분야        | 기술                                     |
+|-------------|------------------------------------------|
+| Framework   | Spring Boot                              |
+| ORM         | JPA                                       |
+| Database    | MySQL                                     |
+| Infra       | GitHub Actions, AWS                       |
+
 
 ---
 
@@ -63,7 +77,6 @@
 
 ---
 
-## 📂 레포지토리 구조
 
 ## 📂 레포지토리 구조
 
