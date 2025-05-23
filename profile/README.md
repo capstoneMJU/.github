@@ -61,11 +61,15 @@
 
 | 분야        | 기술                                     |
 |-------------|------------------------------------------|
-| Framework   | Spring Boot                              |
+| Language           | Java 17                                             |
+| Framework          | Spring Boot, Spring Security                        |
 | ORM         | JPA                                       |
 | Database    | MySQL                                     |
-| Infra       | GitHub Actions, AWS                       |
-
+| API 문서화         | Swagger / SpringDoc OpenAPI                         |
+| CI/CD              | GitHub Actions, AWS CodeDeploy                      |
+| Build Tool         | Gradle                                              |
+| Test               | JUnit5, Mockito                                     |
+| 인증/인가          | JWT                                                 |
 
 ---
 
